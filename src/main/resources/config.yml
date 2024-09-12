@@ -1,0 +1,4 @@
+night-midnight:
+  archery: 0.5 # Example, archers can't see well at night
+1000-6000:
+  agility: 1.5 # Example 2, a good run in the morning is good

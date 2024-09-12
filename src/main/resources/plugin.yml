@@ -1,0 +1,5 @@
+name: SkillTime
+version: '1.0.0'
+main: me.vaan.skillTime.SkillTime
+api-version: '1.21'
+depend: ["AuraSkills"]
